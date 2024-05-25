@@ -1,0 +1,290 @@
+/* Ravi- Graphic */
+
+@media (max-width:1150px)
+{
+    .graphic-design h3
+    {
+        font-size: 3.2rem;
+    }
+    .graphic-design p
+    {
+        font-size: 1rem;
+    }
+    .graphic-design span
+    {
+        font-size: 1.1rem;
+    }
+
+    .subscribe h4
+    {
+        font-size: 45px;
+    }
+
+    .subscribe p
+    {
+        font-size: 17px;
+    }
+
+
+
+}
+
+@media (max-width:1024px)
+{
+    .token-coin-2 img
+    {
+        top: 48%;
+        left: 89%;
+    }
+    .subscribe span input
+    {
+        font-size: 1rem;
+        padding: 1rem;
+    }
+    .subscribe span button
+     {
+        font-size: 18px;
+        padding: 0 2rem;
+    }
+}
+
+@media (max-width:900px)
+{
+    .graphic-design h3
+    {
+        font-size: 2.7rem;
+        line-height: 50px
+    }
+    .graphic-design p
+    {
+        font-size: .9rem;
+    }
+    .graphic-design span
+    {
+        font-size: 1rem;
+    }
+    .subscribe h4
+    {
+        font-size: 36px;
+        line-height: 50px;
+    }
+
+    .subscribe p
+    {
+        
+        font-size: 12px;
+        line-height: 20px;
+    }
+}
+
+
+@media (max-width:786px)
+{
+    .graphic-design h3
+    {
+        font-size: 2.4rem;
+        line-height: 50px
+    }
+    .graphic-design p
+    {
+        font-size: .8rem;
+    }
+    .graphic-design span
+    {
+        font-size: .9rem;
+    }
+    .token-coin-2 img
+    {
+        top: 52%;
+    }
+    .subscribe h4
+    {
+        font-size: 31px;
+        line-height: 42px;
+    }
+
+    .subscribe p
+    {
+        
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .subscribe span input
+    {
+        font-size: .8rem;
+        padding: .8rem;
+    }
+    .subscribe span button
+     {
+        font-size: 14px;
+        padding: 0 1.7rem;
+    }
+}
+
+
+@media (max-width:650px)
+{
+    .graphic-design h3
+    {
+        font-size: 1.8rem;
+        line-height: 40px
+    }
+    .graphic-design p
+    {
+        font-size: .6rem;
+    }
+    .graphic-design span
+    {
+        font-size: .7rem;
+    }
+    .subscribe h4
+    {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .subscribe span input
+    {
+        font-size: .6rem;
+        padding: .6rem;
+    }
+    .subscribe span button
+     {
+        font-size: 11px;
+    }
+}
+
+
+@media (max-width:540px)
+{
+    .graphic-design h3
+    {
+        font-size: 1.6rem;
+        line-height: 30px
+    }
+    .graphic-design p
+    {
+        font-size: .5rem;
+    }
+    .graphic-design span
+    {
+        font-size: .6rem;
+    }
+    .subscribe h4
+    {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .subscribe p
+    {
+        
+        font-size: 8px;
+        line-height: 17px;
+    }
+}
+
+
+@media (max-width:480px)
+{
+    .graphics-pay
+    {
+        flex-direction: column-reverse;
+    }
+    .graphic-design
+    {
+        max-width: 100%;
+        text-align: center;
+    }
+    .payment-success
+    {
+        max-width: 80%;
+        margin-bottom: 1rem;
+    }
+    .graphic-design h3
+    {
+        text-align: center;
+    }
+    .graphic-design p
+    {
+        text-align: center;
+    }
+    .token-coin-1 img {
+        position: absolute;
+        top: 5%;
+        width: 12%;
+        height: auto;
+        left: 10%;
+    }
+    .token-coin-2 img {
+        position: absolute;
+        top: 38%;
+        width: 6%;
+        height: auto;
+        left: 74%;;
+    }
+    .token-coin-3
+    {
+        width: 26%;
+        padding-top: 14%;
+        top: -7%;
+        left: 87%;
+    }
+
+
+    .selling-token
+    {
+        flex-direction: column;
+        margin-top: 2rem;
+    }
+
+    .sell-token-img
+    {
+        max-width: 80%;
+    }
+    
+    .subscribe
+    {
+        max-width: 100%;
+        text-align: center;
+        margin-top: 1rem;
+    }
+    .subscribe h4
+    {
+        font-size: 24px;
+        line-height: 53px;
+        text-align: center;
+    }
+    .subscribe p
+    {
+        
+        font-size: 15px;
+        line-height: 17px;
+        text-align: center;
+    }
+}
+
+
+@media (max-width:408px)
+{
+    .token-coin-3
+    {
+        top: -5%;
+        width: 23%;
+        padding-top: 12%;
+        left: 89%
+    }
+    .token-coin-2 img
+    {
+        top: 34%;
+    }
+}
+
+@media (max-width:320px)
+{
+    .token-coin-3
+    {
+        top: -4%;
+        width: 24%;
+        padding-top: 12%;
+        left: 88%;
+    }
+}
